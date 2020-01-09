@@ -1,6 +1,6 @@
 # jrcp-demo
 
-## Build Mac Windows
+## Build On Windows
 运行脚本build-win.cmd会自动拉起rpc server、client
 
 二进制输出在bin目录下
