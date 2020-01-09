@@ -18,7 +18,7 @@ go build -buildmode=c-shared -o bin/server.so server
 
 g++ cpp/main.cpp bin/server.so -o bin/server
 
-二进制输出在bin目录下，先启动server再启动client
+二进制输出在bin目录下，终端窗口启动server、再启动client
 
 ## 依赖
 golang
